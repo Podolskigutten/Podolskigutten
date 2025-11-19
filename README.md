@@ -10,5 +10,5 @@ Feel free to explore the repositories, ask questions, or share suggestions.
 
 <p align="center">
   <img src="https://github.com/Podolskigutten/Visual_Odometry/blob/main/Results/vo_demo.gif?raw=true" width="300">
-  <img src="https://github.com/Podolskigutten/Inverted_Pendulum/blob/main/imgs/LQR_CartPole.gif?raw=true" width="300">
+  <img src="https://github.com/Podolskigutten/Inverted_Pendulum/blob/main/imgs/LQR_CartPole.gif?raw=true" width="400">
 </p>
