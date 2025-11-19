@@ -8,4 +8,5 @@ This GitHub contains a mix of smaller and larger projects, ranging from control-
 Feel free to explore the repositories, ask questions, or share suggestions.
 
 
-![Visual Odometry Demo](Results/vo_demo.gif)
+![vo demo](https://github.com/Podolskigutten/Visual_Odometry/blob/main/Results/vo_demo.gif?raw=true)
+
