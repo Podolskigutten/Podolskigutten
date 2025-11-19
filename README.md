@@ -1,4 +1,4 @@
-##Welcome!
+# Welcome!
 
 My name is Lukas. I’m a master’s student in robotics at the University of Oslo.
 I previously studied mechanical engineering at OsloMet and spent a year at TU Dortmund, also focusing on robotics.
