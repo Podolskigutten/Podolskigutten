@@ -4,8 +4,13 @@ I previously studied mechanical engineering at OsloMet and spent a year at TU Do
 This GitHub contains a mix of smaller and larger projects, ranging from control-system simulations to computer vision and robotics work. Some are completed, others are works in progress.
 Feel free to explore the repositories, ask questions, or share suggestions.
 
+---
+
 <p align="center">
   <img src="https://github.com/Podolskigutten/Visual_Odometry/blob/main/Results/vo_demo.gif?raw=true" width="300">
   <img src="https://github.com/Podolskigutten/Inverted_Pendulum/blob/main/imgs/LQR_CartPole.gif?raw=true" width="360">
-  <img src="https://github.com/lukasderia/ros2_leo_ws/blob/main/media/combo_23_animation.gif?raw=true" width="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lukasderia/ros2_leo_ws/blob/main/media/combo_23_animation.gif?raw=true" width="700">
 </p>
